@@ -22,33 +22,33 @@ Everyone takes the **Common Core**, then the track for their team, then the **Ca
 ### 01 · Portfolio & Risk track
 | # | Notebook |
 |---|---|
-| P1 | Markowitz: optimal portfolios and why they break |
-| P2 | Covariance shrinkage (Ledoit–Wolf) |
-| P3 | Risk parity |
-| P4 | Factor models |
-| P5 | Position sizing: Kelly and volatility targeting |
-| P6 | Value at Risk and stress testing |
-| P7 | Drawdown control |
+| PR1 | Markowitz: optimal portfolios and why they break |
+| PR2 | Covariance shrinkage (Ledoit–Wolf) |
+| PR3 | Risk parity and Hierarchical Risk Parity (HRP) |
+| PR4 | Factor models |
+| PR5 | Position sizing: Kelly and volatility targeting |
+| PR6 | Value at Risk and stress testing |
+| PR7 | Drawdown control |
 
 ### 02 · Signal Research track
 | # | Notebook |
 |---|---|
-| S1 | Momentum (cross-sectional and time-series) |
-| S2 | Pairs trading and cointegration |
-| S3 | The Kalman filter |
-| S4 | Regime detection (hidden Markov models) |
-| S5 | Feature engineering and the information coefficient |
-| S6 | Walk-forward and purged cross-validation |
-| S7 | Tree ensembles (random forests, gradient boosting) |
+| SR1 | Momentum (cross-sectional and time-series) |
+| SR2 | Pairs trading and cointegration |
+| SR3 | The Kalman filter |
+| SR4 | Regime detection (hidden Markov models) |
+| SR5 | Feature engineering and the information coefficient |
+| SR6 | Walk-forward and purged cross-validation |
+| SR7 | Tree ensembles (random forests, gradient boosting) |
 
 ### 03 · Sentiment & Alternative Data track
 | # | Notebook |
 |---|---|
-| A1 | The alternative data landscape |
-| A2 | Text to numbers: tokens, lexicons, sentiment scores |
-| A3 | Attention signals and event studies |
-| A4 | Point-in-time data: timestamps, time zones, the market close |
-| A5 | Text classification: TF-IDF and logistic regression |
+| SAR1 | The alternative data landscape |
+| SAR2 | Text to numbers: tokens, lexicons, sentiment scores |
+| SAR3 | Attention signals and event studies |
+| SAR4 | Point-in-time data: timestamps, time zones, the market close |
+| SAR5 | Text classification: TF-IDF and logistic regression |
 
 ### 04 · Capstone (everyone)
 | # | Notebook |
