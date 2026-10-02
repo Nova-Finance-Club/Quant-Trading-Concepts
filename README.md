@@ -6,7 +6,7 @@ A hands-on course in quantitative finance, written for students with a solid mat
 
 ## How to use it
 
-### 00 · Common Core =
+### 00 · Common Core 
 | # | Notebook |
 |---|---|
 | 1 | Prices and returns |
