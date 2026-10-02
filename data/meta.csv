@@ -1,0 +1,64 @@
+ticker,name,asset_type,sector
+AAPL,Apple,stock,Information Technology
+MSFT,Microsoft,stock,Information Technology
+NVDA,NVIDIA,stock,Information Technology
+ADBE,Adobe,stock,Information Technology
+CSCO,Cisco Systems,stock,Information Technology
+GOOGL,Alphabet (Class A),stock,Communication Services
+NFLX,Netflix,stock,Communication Services
+DIS,Walt Disney,stock,Communication Services
+VZ,Verizon,stock,Communication Services
+AMZN,Amazon,stock,Consumer Discretionary
+HD,Home Depot,stock,Consumer Discretionary
+MCD,McDonald's,stock,Consumer Discretionary
+NKE,Nike,stock,Consumer Discretionary
+SBUX,Starbucks,stock,Consumer Discretionary
+PG,Procter & Gamble,stock,Consumer Staples
+KO,Coca-Cola,stock,Consumer Staples
+PEP,PepsiCo,stock,Consumer Staples
+WMT,Walmart,stock,Consumer Staples
+COST,Costco,stock,Consumer Staples
+JNJ,Johnson & Johnson,stock,Health Care
+UNH,UnitedHealth,stock,Health Care
+PFE,Pfizer,stock,Health Care
+MRK,Merck,stock,Health Care
+ABT,Abbott Laboratories,stock,Health Care
+JPM,JPMorgan Chase,stock,Financials
+BAC,Bank of America,stock,Financials
+GS,Goldman Sachs,stock,Financials
+V,Visa,stock,Financials
+BRK-B,Berkshire Hathaway (Class B),stock,Financials
+XOM,Exxon Mobil,stock,Energy
+CVX,Chevron,stock,Energy
+COP,ConocoPhillips,stock,Energy
+SLB,Schlumberger,stock,Energy
+CAT,Caterpillar,stock,Industrials
+UNP,Union Pacific,stock,Industrials
+LMT,Lockheed Martin,stock,Industrials
+UPS,United Parcel Service,stock,Industrials
+NEE,NextEra Energy,stock,Utilities
+DUK,Duke Energy,stock,Utilities
+APD,Air Products,stock,Materials
+SHW,Sherwin-Williams,stock,Materials
+AMT,American Tower,stock,Real Estate
+PLD,Prologis,stock,Real Estate
+SPY,S&P 500,etf,Equity - US Large Cap
+QQQ,Nasdaq-100,etf,Equity - US Large Cap
+IWM,Russell 2000,etf,Equity - US Small Cap
+XLK,Technology Select Sector,etf,Equity - Sector
+XLF,Financial Select Sector,etf,Equity - Sector
+XLE,Energy Select Sector,etf,Equity - Sector
+XLV,Health Care Select Sector,etf,Equity - Sector
+XLY,Consumer Discretionary Select Sector,etf,Equity - Sector
+XLP,Consumer Staples Select Sector,etf,Equity - Sector
+XLI,Industrial Select Sector,etf,Equity - Sector
+XLU,Utilities Select Sector,etf,Equity - Sector
+XLB,Materials Select Sector,etf,Equity - Sector
+TLT,20+ Year Treasury Bond,etf,Bonds - Government
+IEF,7-10 Year Treasury Bond,etf,Bonds - Government
+LQD,Investment Grade Corporate Bond,etf,Bonds - Corporate
+HYG,High Yield Corporate Bond,etf,Bonds - Corporate
+GLD,Gold,etf,Commodities
+VNQ,US Real Estate (REITs),etf,Real Estate
+^VIX,CBOE Volatility Index,index,Volatility
+^IRX,"13-Week T-Bill Yield (annual %, not a price)",index,Rates
