@@ -6,9 +6,7 @@ A hands-on course in quantitative finance, written for students with a solid mat
 
 ## How to use it
 
-Everyone takes the **Common Core**, then the track for their team, then the **Capstone**.
-
-### 00 · Common Core (everyone)
+### 00 · Common Core =
 | # | Notebook |
 |---|---|
 | 1 | Prices and returns |
@@ -50,7 +48,7 @@ Everyone takes the **Common Core**, then the track for their team, then the **Ca
 | SAR4 | Point-in-time data: timestamps, time zones, the market close |
 | SAR5 | Text classification: TF-IDF and logistic regression |
 
-### 04 · Capstone (everyone)
+### 04 · Capstone
 | # | Notebook |
 |---|---|
 | K1 | From backtest to paper trading |
