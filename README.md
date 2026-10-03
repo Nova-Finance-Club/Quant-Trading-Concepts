@@ -2,10 +2,6 @@
 
 #### Official repository of the Nova Finance Club's Quant Trading department.
 
-A hands-on course in quantitative finance, written for students with a solid maths background and basic Python, but no prior quant experience. Every notebook follows the same five steps: **Motivation → Intuition → The math → Code it → Takeaways and where it breaks**. All code runs on real market data from the shared `data/` folder.
-
-## How to use it
-
 ### 00 · Common Core 
 | # | Notebook |
 |---|---|
