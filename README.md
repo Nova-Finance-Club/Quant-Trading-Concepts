@@ -50,14 +50,6 @@
 | K1 | From backtest to paper trading |
 | K2 | A complete system, from data to report |
 
-## Data
-
-`data/` holds daily prices and volumes for 43 US stocks, 18 ETFs, the VIX and the 13-week T-bill rate (2010–2026), plus 120 fictional labelled headlines for the sentiment notebooks. See [`data/README.md`](data/README.md). To refresh the market data, run `python data/build_dataset.py`.
-
-## Setup
-
-Python 3.10+ with `numpy`, `pandas`, `matplotlib`, `scipy`, `statsmodels` and `scikit-learn` (all included in Anaconda). `yfinance` is only needed to rebuild the dataset.
-
 ## Archive
 
 `archive/` contains the previous, more advanced version of the course (33 notebooks), kept for reference.
